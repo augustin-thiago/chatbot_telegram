@@ -1,6 +1,7 @@
-**chatbot-node-telegram**
+**chatbot-telegram**
 
-Chatbot desenvolvido na disciplina de Sistemas de Apoio a Decisão do curso de Engenharia de Software - UnC Mafra - 20201/2
+Chatbot desenvolvido para obtenção da nota M2 na disciplina de Sistemas de Apoio a Decisão do curso de Engenharia de Software - UnC Mafra - 2021 - 2º Semestre
+
 
 Ferramentas utilizadas:
 * Node.js
